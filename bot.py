@@ -22,4 +22,4 @@ def roblox_account_check(username, password):
     return False  # Assume it's invalid for demonstration
 
 # Run the bot with your token
-bot.run('MTI3MjE2MzkwODQ1NDcxMTMwNg.Go57d0.o3XmjwWq824q-2HaBmqvh309cLjcp6_LnsU98Y')
+bot.run('YOUR DISCORD BOT TOKEN')
